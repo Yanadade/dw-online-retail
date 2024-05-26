@@ -49,12 +49,12 @@ Running docker-airflow (port: 8080)
 docker compose up
 ```
 
-Download library dbt-core dbt-bigquery for able to use dbt tools and dbt connect to bigquery.
+Download library dbt-core dbt-bigquery able to use dbt tools and dbt connect to bigquery.
 ```sh
 pip install dbt-core dbt-bigquery
 ```
 
-create project profile dbt used to google bigqeury 
+create project dbt profile used to google bigqeury 
 ```sh
 dbt init
 ```
@@ -66,7 +66,7 @@ code /home/codespace/.dbt/profiles.yml
 
 change Directory to dbt_modeling for working with profiles.yml
 ```sh
-cd dbt_modeling
+cd dbt_modeling/
 ```
 
 check connection DBT with Google Bigquery
