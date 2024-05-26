@@ -1,9 +1,9 @@
 # dw-online-retail 📝
 
-docker-airflow
-Google Cloud Platform (GCP): Google Cloud Storage (GCS) / Google Bigquery
-data build tool (dbt) 
-Looker studio
+* docker-airflow
+* Google Cloud Platform (GCP): Google Cloud Storage (GCS) / Google Bigquery
+* data build tool (dbt) 
+* Looker studio
 
 
 # Data Pipeline 🚀
