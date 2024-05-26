@@ -11,6 +11,9 @@
 <br>
 <p align="center">
 <img src="https://github.com/Yanadade/dw-online-retail/blob/main/image/Architecture.jpg" width="100%"></img> 
+
+<p align="center">
+<img src="https://github.com/Yanadade/dw-online-retail/blob/main/image/pipeline.JPG" width="100%"></img>
 </p>
 
 # Data Model 📃
