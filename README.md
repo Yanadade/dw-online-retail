@@ -17,7 +17,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/Yanadade/dw-online-retail/blob/main/image/data%20modeling.png" width="100%"></img> 
+<img src="https://github.com/Yanadade/dw-online-retail/blob/main/image/datamodeling.png" width="100%"></img> 
 </p>
 
 # Visualization 📊
